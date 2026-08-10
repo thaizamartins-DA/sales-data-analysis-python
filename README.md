@@ -41,3 +41,26 @@ The datasets were combined into a single DataFrame to enable an integrated analy
 - Data Visualization
 - Business Analysis
 - Data Storytelling
+
+## 📊 Key KPIs
+After cleaning and integrating the datasets, the analysis resulted in the following key business indicators:
+
+| KPI | Result |
+|---|---:|
+| Total Orders | 1,328 |
+| Total Revenue | $1.70B |
+| Total Profit | $501.43M |
+| Units Sold | 6.58M |
+| Product Categories | 12 |
+| Country Codes | 46 (including Unknown) |
+| Average Shipping Time | 24.78 days |
+
+## 💡 Key Insights
+- **Office Supplies** generated the highest revenue and also recorded the highest sales volume among the product categories.
+- **Cosmetics** achieved the highest profit, showing that the category with the highest revenue is not necessarily the most profitable.
+- **Europe** concentrated most of the company's revenue, profit, costs, and units sold, significantly outperforming Asia.
+- The **Offline** sales channel slightly outperformed Online in revenue, profit, and units sold, although both channels showed similar overall performance.
+- The average shipping time was approximately **24.78 days**, with some variation across product categories and geographic markets.
+- No clear relationship was identified between **shipping time and profitability**.
+- Revenue reached its highest level in **2012** and showed fluctuations in the following years.
+- Sales were relatively balanced across the days of the week, with no strong evidence of weekly seasonality.
