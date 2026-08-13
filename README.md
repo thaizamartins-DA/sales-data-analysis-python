@@ -76,3 +76,8 @@ The analysis shows that **Office Supplies** generated the highest revenue, follo
 While **Office Supplies** generated the highest revenue, **Cosmetics** achieved the highest profit, highlighting that higher revenue does not necessarily translate into higher profitability.
 
 ![Profit by Product Category](images/profit_by_category.png)
+
+### Revenue Over Time
+Revenue reached its highest level in **2012** and showed fluctuations in the following years, highlighting changes in sales performance over time.
+
+![Revenue Over Time](images/revenue_over_time.png)
