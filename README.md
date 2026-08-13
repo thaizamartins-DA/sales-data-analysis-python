@@ -71,3 +71,8 @@ After cleaning and integrating the datasets, the analysis resulted in the follow
 The analysis shows that **Office Supplies** generated the highest revenue, followed by **Household** and **Cosmetics**, highlighting the categories with the greatest contribution to overall sales.
 
 ![Revenue by Product Category](images/revenue_by_category.png)
+
+### Profit by Product Category
+While **Office Supplies** generated the highest revenue, **Cosmetics** achieved the highest profit, highlighting that higher revenue does not necessarily translate into higher profitability.
+
+![Profit by Product Category](images/profit_by_category.png)
