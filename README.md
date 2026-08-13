@@ -81,3 +81,28 @@ While **Office Supplies** generated the highest revenue, **Cosmetics** achieved 
 Revenue reached its highest level in **2012** and showed fluctuations in the following years, highlighting changes in sales performance over time.
 
 ![Revenue Over Time](images/revenue_over_time.png)
+
+## 📁 Project Structure
+```text
+sales-data-analysis-python/
+│
+├── Sales_Data_Analysis_Python.ipynb
+├── images/
+│   ├── revenue_by_category.png
+│   ├── profit_by_category.png
+│   └── revenue_over_time.png
+├── README.md
+└── LICENSE
+```
+
+## ▶️ How to Run
+
+1. Clone or download this repository.
+2. Open `Sales_Data_Analysis_Python.ipynb` in Google Colab or Jupyter Notebook.
+3. Make sure the required datasets are available.
+4. Run the notebook cells in order to reproduce the data cleaning, analysis, and visualizations.
+
+## 👩‍💻 About Me
+I'm a Junior Data Analyst with a background in Marketing, combining business knowledge with data analysis to transform information into actionable insights.
+My current toolkit includes **Python, SQL, Power BI, Tableau, Excel/Google Sheets**, and data visualization, with a focus on business and marketing analytics.
+This project is part of my data analytics portfolio, where I apply technical skills to real business scenarios.
