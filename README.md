@@ -64,3 +64,10 @@ After cleaning and integrating the datasets, the analysis resulted in the follow
 - No clear relationship was identified between **shipping time and profitability**.
 - Revenue reached its highest level in **2012** and showed fluctuations in the following years.
 - Sales were relatively balanced across the days of the week, with no strong evidence of weekly seasonality.
+
+## 📈 Visualizations
+### Revenue by Product Category
+
+The analysis shows that **Office Supplies** generated the highest revenue, followed by **Household** and **Cosmetics**, highlighting the categories with the greatest contribution to overall sales.
+
+![Revenue by Product Category](images/revenue_by_category.png)
